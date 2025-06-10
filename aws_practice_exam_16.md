@@ -1,8 +1,4 @@
----
-layout: exam
----
-
-# Practice Exam 16
+# Practice Exam 0
 
 1. Which AWS service provides a fully managed NoSQL database service that supports both document and key-value data models?
     - A. Amazon RDS
