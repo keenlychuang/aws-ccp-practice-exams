@@ -6,12 +6,12 @@
 
 | Exam | Questions | Link |
 |------|-----------|------|
-| Practice Exam 0 | 65 | [Take Exam](practice-exam/practice-exam-1.md) |
-| Practice Exam 1 | 65 | [Take Exam](practice-exam/practice-exam-2.md) |
-| Practice Exam 2 | 65 | [Take Exam](practice-exam/practice-exam-3.md) |
-| Practice Exam 3 | 65 | [Take Exam](practice-exam/practice-exam-4.md) |
-| Practice Exam 4 | 65 | [Take Exam](practice-exam/practice-exam-5.md) |
-| Practice Exam 5 | 65 | [Take Exam](practice-exam/practice-exam-6.md) |
+| Practice Exam 0 | 50 | [Take Exam](aws_practice_exams/aws_practice_exam_0.md) |
+| Practice Exam 1 | 50 | [Take Exam](aws_practice_exams/aws_practice_exam_1.md) |
+| Practice Exam 2 | 50 | [Take Exam](aws_practice_exams/aws_practice_exam_2.md) |
+| Practice Exam 3 | 50 | [Take Exam](aws_practice_exams/aws_practice_exam_3.md) |
+| Practice Exam 4 | 50 | [Take Exam](aws_practice_exams/aws_practice_exam_4.md) |
+| Practice Exam 5 | 50 | [Take Exam](aws_practice_exams/aws_practice_exam_5.md) |
 
 ## How to Use
 
